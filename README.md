@@ -36,3 +36,5 @@ SVO.svo(sent_list=sentence_list)
 
 ## 方法
 使用[CKIP](https://ckip.iis.sinica.edu.tw/)中的POS方式將輸入句子進行詞性標注，之後根據句子主被動格式區分不同提取方式
+
+
